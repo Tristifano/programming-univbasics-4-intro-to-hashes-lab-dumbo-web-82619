@@ -5,6 +5,7 @@ end
 def my_hash
   hash_new = {}
   hash_new[:name] = "Tristan"
+  hash_new
 end
 
 def pioneer
